@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\Ayush Pratap Singh\\Downloads\\Programming\\Codeforces\\test.py","tests":[{"id":1793162570407,"input":"2\n4\n3 -1 1 10\n5\n9 -5 -5 -10 10","output":"1\n11250"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ayush Pratap Singh\\Downloads\\Programming\\Codeforces\\test.py","group":"local","local":true}
